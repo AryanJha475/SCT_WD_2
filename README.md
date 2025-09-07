@@ -15,6 +15,4 @@ This project is part of my **SkillCraft Internship**.
 - 🏁 Record and display lap times
 - 🎨 Simple and responsive UI
 
----
 
-## 📂 Project Structure
